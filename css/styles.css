@@ -10140,3 +10140,10 @@ p{
 .sub-pha{
   text-indent: 2rem;
 }
+img{
+  width: 20rem;
+  height: 28rem;
+  align-items: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
