@@ -10133,3 +10133,10 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+p{
+  text-align: justify;
+}
+.sub-pha{
+  text-indent: 2rem;
+}
