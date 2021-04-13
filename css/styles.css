@@ -10154,7 +10154,7 @@ flex-direction: row;
 align-items: center;
 }
 .sub-skill{
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: bold;
   margin-top: auto;
   margin-bottom: auto;
@@ -10187,8 +10187,12 @@ color: white;
 .html {width: 70%; background-color: #e34c26;}
 .css {width: 65%; background-color: #264de4;}
 .javascript {width: 65%; background-color: #f0db4f;}
+.jquery {width: 55%; background-color: black;}
+.bootstrap {width: 55%; background-color: #563d7c;}
+
 .nodejs {width: 45%; background-color: #68A063;}
-.npm {width: 50%; background-color: black;}
+.npm {width: 45%; background-color: black;}
 .github {width: 55%; background-color: #333;}
 .git {width: 55%; background-color: #f34f29;}
 .cordova {width: 60%; background-color: #808080;}
+.mongodb {width: 55%; background-color: #808080;}
