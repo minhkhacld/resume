@@ -10184,7 +10184,7 @@ color: white;
 .autocad {width: 50%; background-color: #E72126;}
 .google-sheets {width: 60%; background-color: #0F9D58;}
 .sql{width: 45%; background-color: red;}
-.mysql{width: 45%; background-color: orangered;}
+.mysql{width: 55%; background-color: orangered;}
 
 .html {width: 70%; background-color: #e34c26;}
 .css {width: 65%; background-color: #264de4;}
@@ -10192,7 +10192,7 @@ color: white;
 .jquery {width: 55%; background-color: black;}
 .bootstrap {width: 55%; background-color: #563d7c;}
 
-.nodejs {width: 45%; background-color: #68A063;}
+.nodejs {width: 55%; background-color: #68A063;}
 .npm {width: 45%; background-color: black;}
 .github {width: 55%; background-color: #333;}
 .git {width: 55%; background-color: #f34f29;}
